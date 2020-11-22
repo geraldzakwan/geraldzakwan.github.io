@@ -1,4 +1,4 @@
-# Tajong.ai
+# Hafalin Web App by Tajong.ai
 
 - A web app that could automatically generate `academic questions` (`multiple choice` and `short answer`) given a document in `Bahasa`.
 
