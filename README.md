@@ -2,9 +2,13 @@
 
 - A web app that could automatically generate academic questions (multiple choice and short answer) given a document in Indonesian/Bahasa.
 
-- This is intended to generate questions for students, for example, using a paragrpah from an elementary school history lesson. But, the app could generalize to accept other stuff like news. 
+- This is intended to generate questions for young students, for example, using a paragraph from an elementary school history lesson. 
 
-- This project is submitted for a Hackathon competition held by Kata.ai. More on the competition here ```https://blog.kata.ai/en/post/katahack-2-0-2/.```
+- The app, however, could generalize to accept other stuff like news. 
+
+- This project is submitted for a Hackathon competition held by Kata.ai. 
+
+- More on the competition here ```https://blog.kata.ai/en/post/katahack-2-0-2/.```
 
 # How to Use
 
@@ -20,9 +24,9 @@ Pada pertandingan yang dihelat di Wanda Metropolitano, Minggu (2/6/2019) dini ha
 Setelah babak pertama berakhir dengan keunggulan Liverpool 1-0, Spurs gantian menekan habis-habisan di babak kedua. Keasyikan menyerang, gawang Spurs malah bobol lagi pada menit ke-87 oleh gol Divock Origi.
 ```
 
-3. Choose question type: "Pilihan Ganda" or "Isian Singkat"
+3. Choose question type: ```"Pilihan Ganda"``` or ```"Isian Singkat"```
 
-4. Hit the "Klik disini untuk memulai" button and you will be prompted to answer the generated questions
+4. Hit the ```"Klik disini untuk memulai"``` button and you will be prompted to answer the generated questions
 
 5. At the end of the session, you will be assigned a score based on how you perform. Have fun :)
 
