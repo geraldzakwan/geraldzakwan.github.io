@@ -1,14 +1,14 @@
 # Hafalin Web App by Tajong.ai
 
-- A web app that could automatically generate `academic questions` (`multiple choice` and `short answer`) given a document in `Bahasa`.
+- A web app that could automatically generate `academic questions` (`multiple choice` and `short answer`) given a document in `Bahasa`
 
-- This is intended to generate questions for young `students`, for example, using a paragraph from an elementary school `history` lesson. 
+- This is intended to generate questions for young `students`, for example, using a paragraph from an elementary school `history` lesson
 
-- The app, however, could generalize to accept other stuff like `news`. 
+- The app, however, could generalize to accept other stuff like `news`
 
-- This project is submitted for a `Hackathon` competition held by `Kata.ai`. 
+- This project is submitted for a `Hackathon` competition held by `Kata.ai` 
 
-- More on the competition here `https://blog.kata.ai/en/post/katahack-2-0-2/.`
+- More on the competition here `https://blog.kata.ai/en/post/katahack-2-0-2/`
 
 # How to Use
 
@@ -28,7 +28,7 @@ Setelah babak pertama berakhir dengan keunggulan Liverpool 1-0, Spurs gantian me
 
 4. Hit the `"Klik disini untuk memulai"` button and you will be prompted to answer the generated questions
 
-5. At the end of the session, you will be assigned a score based on how you perform. Have fun :)
+5. At the end of the session, you will be assigned a score based on how you perform, have fun :)
 
 # Notes
 
